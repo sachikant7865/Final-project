@@ -1,4 +1,4 @@
-##Frt: Future Ready Talent Project by Sachikanta Das
+## Frt: Future Ready Talent Project by Sachikanta Das
 Basic webpage demonstrate the different type of body-builders. This page will help many to understand by workout what are the different things that can be developed in human body.
 #future ready talent azure project link https://jolly-sand-0c5401b10.1.azurestaticapps.net/
 #Contact us
